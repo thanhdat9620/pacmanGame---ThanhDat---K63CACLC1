@@ -1,0 +1,24 @@
+﻿Build started 5/17/2019 10:05:56 AM.
+     1>Project "C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\pacmanGame\pacmanGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\SFML-2.5.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(66): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(69): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(103): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(233): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(234): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(235): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(236): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(414): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(415): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\pacmangame - thanhdat - k63caclc1\pacmangame\main.cpp(416): warning C4305: 'argument' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\Debug\pacmanGame.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\SFML-2.5.1\lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\Debug\pacmanGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\Debug\pacmanGame.lib" /MACHINE:X86 Debug\main.obj
+         pacmanGame.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\Debug\pacmanGame.exe
+     1>Done Building Project "C:\Users\Admin\Documents\Visual Studio 2013\Projects\pacmanGame - ThanhDat - K63CACLC1\pacmanGame\pacmanGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.56
